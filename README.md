@@ -6,3 +6,9 @@ Contínua.
 ## Objetivo
 
 Aprender os conceitos básicos de Git e GitHub.
+
+## Integrantes
+
+- Bruno Oller Brunelli
+- João Pedro Surita
+- Eduardo Petarnella Gabri
